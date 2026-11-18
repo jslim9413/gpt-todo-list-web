@@ -1,0 +1,8 @@
+.env
+.env.*
+secrets.toml
+__pycache__/
+*.pyc
+.venv/
+todo.db
+todo.db-*

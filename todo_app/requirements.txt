@@ -1,0 +1,2 @@
+# pip이 현재 Python 버전과 호환되는 최신 Streamlit을 선택합니다.
+streamlit>=1.64
